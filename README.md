@@ -37,7 +37,7 @@
 
 ## 总体流程图
 
-![总体流程图](https://github.com/qs956/logic-reconstruction-of-handwritten-formula/figure/总体流程图.png)
+![总体流程图](https://github.com/qs956/logic-reconstruction-of-handwritten-formula/blob/master/figure/%E6%80%BB%E4%BD%93%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
 
 ### 格式匹配
 
@@ -81,7 +81,7 @@ bounding box x最小值
 
 使用如下井字形关系描述各个符号之间的关系构成符号关系矩阵:
 
-![位置关系](https://github.com/qs956/logic-reconstruction-of-handwritten-formula/位置关系.png)
+![位置关系](https://github.com/qs956/logic-reconstruction-of-handwritten-formula/blob/master/figure/%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB.png)
 
 #### 分数重构
 
